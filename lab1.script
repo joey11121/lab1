@@ -1,0 +1,24 @@
+命令稿啟動於 2017年03月12日 (週日) 22時52分48秒
+]0;joey11121@joey11121-Aspire-S3 ~[01;32mjoey11121@joey11121-Aspire-S3[00m [01;34m~ $[00m whoami;pwd
+joey11121
+/home/joey11121
+]0;joey11121@joey11121-Aspire-S3 ~[01;32mjoey11121@joey11121-Aspire-S3[00m [01;34m~ $[00m git config -l
+user.email=joey60209@gmail.com
+user.name=joey11121
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/joey11121/lab1.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+]0;joey11121@joey11121-Aspire-S3 ~[01;32mjoey11121@joey11121-Aspire-S3[00m [01;34m~ $[00m git clone https://github.com/joey11121/lab1.gi t
+Cloning into 'lab1'...
+remote: Counting objects: 6, done.[K
+remote: Compressing objects:  25% (1/4)   [Kremote: Compressing objects:  50% (2/4)   [Kremote: Compressing objects:  75% (3/4)   [Kremote: Compressing objects: 100% (4/4)   [Kremote: Compressing objects: 100% (4/4), done.[K
+remote: Total 6 (delta 0), reused 6 (delta 0), pack-reused 0[K
+Unpacking objects:  16% (1/6)   Unpacking objects:  33% (2/6)   Unpacking objects:  50% (3/6)   Unpacking objects:  66% (4/6)   Unpacking objects:  83% (5/6)   Unpacking objects: 100% (6/6)   Unpacking objects: 100% (6/6), done.
+Checking connectivity... done.
+]0;joey11121@joey11121-Aspire-S3 ~[01;32mjoey11121@joey11121-Aspire-S3[00m [01;34m~ $[00m exit
+
+命令稿已於 2017年03月12日 (週日) 22時53分46秒
+ 完成
